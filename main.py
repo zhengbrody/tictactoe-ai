@@ -8,7 +8,6 @@ from tictactoe.engine import Engine
 MODE = "TERMINATOR"
 # MODE = "2 Player"
 
-
 def main():
     board = Board()
     p1 = Symbol.CIRCLE
